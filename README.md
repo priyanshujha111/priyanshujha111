@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on Developing app<br>🌱 I’m currently Pursuing CSE<br>💬 Ask me about priyanshujha712003@gmail.com<br>
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Developing app<br>🌱 I’m currently Pursuing CSE<br>💬 Ask me about priyanshujha712003@gmail.com<br>
 
 
 ## 🌐 Socials:
