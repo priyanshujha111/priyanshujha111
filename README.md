@@ -1,7 +1,10 @@
-# 💫 About Me:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mysql,git,github,vscode" />
-</p>
+🔭 Building modern and responsive web applications  
+🌱 Continuously learning and improving my development skills  
+💻 Working with React.js, Next.js, Node.js, Express.js & TypeScript  
+🛠️ Experienced in Frontend, Backend, REST APIs & SQL Databases  
+👯 Open to collaborating on Web Development projects  
+💬 Ask me about JavaScript, React.js, Node.js & Full-Stack Development  
+📫 Reach me at: **priyanshujha712003@gmail.com**
 
 ---
 
