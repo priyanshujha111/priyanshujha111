@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Developing Web<br>🌱 I’m currently Pursuing CSE<br>💬 Ask me about priyanshujha712003@gmail.com<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/priyanshu-jha-044474237/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:priyanshujha712003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 ## 🌐 Socials:
